@@ -1,5 +1,5 @@
 """
-Modification of original Triton FlashAttention implementation for PrefixLM
+Modification for prefix LM of original Triton FlashAttention implementation
 https://github.com/openai/triton/blob/d69eb70a602aba0ab086d8d22ec6f4316e03c6be/python/triton/ops/flash_attention.py
 """
 
